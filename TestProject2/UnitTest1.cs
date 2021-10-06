@@ -16,7 +16,7 @@ namespace TestProject2
             p.Transformar(dato);
             
             // Assert, verificar
-            Assert.AreEqual("EJEMPLOs", p.Transformado);
+            Assert.AreEqual("EJEMPLO", p.Transformado);
         }
     }
 }
